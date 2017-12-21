@@ -1,5 +1,5 @@
 import pymongo
-import os2 
+import os
 __author__ = 'jslvtr'
 
 
